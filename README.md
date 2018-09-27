@@ -1,4 +1,6 @@
-# chat
+# socket IM
+
+###  目前只有群聊选项
 
 > A Vue.js project
 
